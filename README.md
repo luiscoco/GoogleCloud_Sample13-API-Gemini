@@ -22,6 +22,8 @@ We select "**Vertex AI Studio**"
 
 ![image](https://github.com/luiscoco/GoogleCloud_Sample13-API-Gemini/assets/32194879/ca025b85-7c3c-4b52-8e2b-4f4d768f31a3)
 
+We press on the "**Try it now**" button to start working withe **Gemini**
 
+![image](https://github.com/luiscoco/GoogleCloud_Sample13-API-Gemini/assets/32194879/4ea4bc3b-f547-4ccf-a09b-171f2e05c6de)
 
 
