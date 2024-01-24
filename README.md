@@ -39,3 +39,19 @@ We type the question in the **Prompt** textbox and we get the answer in the **Re
 Now we ask "Can you explain me what is Google GEMINI" and we get the following response
 
 ![image](https://github.com/luiscoco/GoogleCloud_Sample13-API-Gemini/assets/32194879/e9327950-12c3-420a-84a6-fbc0bf30aa17)
+
+We can also enter in Gemini from the left hand side menu
+
+![image](https://github.com/luiscoco/GoogleCloud_Sample13-API-Gemini/assets/32194879/a13d9883-a577-41de-a742-f13f6225ab3c)
+
+There some Multimodal prompt samples in the following page
+
+https://console.cloud.google.com/vertex-ai/generative/multimodal/gallery?project=
+
+![image](https://github.com/luiscoco/GoogleCloud_Sample13-API-Gemini/assets/32194879/4dea3a90-2051-4aee-8e2d-515172e98786)
+
+![image](https://github.com/luiscoco/GoogleCloud_Sample13-API-Gemini/assets/32194879/b1485fcb-0b16-4a61-ad08-1a5c1d071c39)
+
+![image](https://github.com/luiscoco/GoogleCloud_Sample13-API-Gemini/assets/32194879/4f4480dd-1bef-4cfd-b166-90fa8efcf880)
+
+
