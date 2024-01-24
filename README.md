@@ -4,7 +4,7 @@
 
 We have to creaet a Google Cloud free tier account: https://cloud.google.com/free
 
-## 2. Let's start working with Gemini
+## 2. Let's start working with Gemini inside the Google Cloud Vertex AI Studio
 
 We log in Google Cloud Console
 
@@ -32,5 +32,10 @@ We have now access to the **Gemini** prompt
 
 We can start with a **simple sample**, we are going to ask **Gemnini** "Who is the USA President?"
 
+We type the question in the **Prompt** textbox and we get the answer in the **Response** textbox
+
 ![image](https://github.com/luiscoco/GoogleCloud_Sample13-API-Gemini/assets/32194879/aa432bcf-85d1-4f67-8f42-4b6c2319902c)
 
+Now we ask "Can you explain me what is Google GEMINI" and we get the following response
+
+![image](https://github.com/luiscoco/GoogleCloud_Sample13-API-Gemini/assets/32194879/e9327950-12c3-420a-84a6-fbc0bf30aa17)
